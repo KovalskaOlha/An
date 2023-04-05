@@ -4,8 +4,14 @@ public class Main {
         an.animal="Dog";
         an.breed="Pitbull";
 
+
         Cat c=new Cat();
         c.breed="American shorthair";
         c.name="tango";
+
+        Bird b=new Bird();
+        b.bird="lalala";
+        b.color="pink";
+
     }
 }
